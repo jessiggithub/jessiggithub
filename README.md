@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jessica Garcia</h1>
-<h3 align="center">A passionate Full Stack Web Developer</h3>
+<h3 align="center">A passionate Full Stack Web, Backend Development, Data Science</h3>
 
 - 📫 How to reach me **jessicagarcia9696@gmail.com**
 
